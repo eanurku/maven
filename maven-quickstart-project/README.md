@@ -1,0 +1,9 @@
+1. create maven quickstart project:
+   * mvn archetype:generate -DgroupId=com.anurag -DartifactId=maven-quickstart-project -DarchetypeartifactId=maven-archetype-quickstart -DinteractiveMode=false 
+
+2. add compiler options:
+   * <properties>
+    * <maven.compiler.source>1.8</maven.compiler.source>
+    * <maven.compiler.target>1.8</maven.compiler.target>
+    * <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+   * </properties>
