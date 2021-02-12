@@ -7,3 +7,6 @@
     * <maven.compiler.target>1.8</maven.compiler.target>
     * <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
    * </properties>
+3. test the app now:
+   * java -cp target/maven-quickstart-project-1.0-SNAPSHOT.jar com.anurag.App 123456
+   * java -jar target/maven-quickstart-project-1.0-SNAPSHOT.jar 
