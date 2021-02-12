@@ -7,6 +7,10 @@
     * <maven.compiler.target>1.8</maven.compiler.target>
     * <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
    * </properties>
-3. test the app now:
+3. add runtime dependent jars in final created app jar
+   * use maven-shade-plugin
+4. make jar executable by adding Main class name
+   * use maven-shade-plugin
+5. test the app now:
    * java -cp target/maven-quickstart-project-1.0-SNAPSHOT.jar com.anurag.App 123456
-   * java -jar target/maven-quickstart-project-1.0-SNAPSHOT.jar 
+   * java -jar target/maven-quickstart-project-1.0-SNAPSHOT.jar 123456
