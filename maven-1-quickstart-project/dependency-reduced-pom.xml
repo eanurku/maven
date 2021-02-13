@@ -7,8 +7,8 @@
   </parent>
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.anurag</groupId>
-  <artifactId>maven-quickstart-project</artifactId>
-  <name>maven-quickstart-project</name>
+  <artifactId>maven-1-quickstart-project</artifactId>
+  <name>maven-1-quickstart-project</name>
   <version>1.0-SNAPSHOT</version>
   <url>http://maven.apache.org</url>
   <build>

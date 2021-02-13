@@ -1,5 +1,5 @@
 1. create parent project:
-  mvn archetype:generate -DgroupId=com.anurag -DartifactId=maven-multi-module-project -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+  mvn archetype:generate -DgroupId=com.anurag -DartifactId=maven-3-multi-module-project -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
 
 2.change packaging to pom in parent pom.xml
   <packaging>pom</packaging>

@@ -6,7 +6,7 @@
 
     <parent>
         <groupId>com.anurag</groupId>
-        <artifactId>maven-multi-module-project</artifactId>
+        <artifactId>maven-3-multi-module-project</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
 

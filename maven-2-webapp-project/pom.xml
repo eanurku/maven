@@ -8,10 +8,10 @@
     <version>1.0-SNAPSHOT</version>
   </parent>
   <groupId>com.anurag</groupId>
-  <artifactId>maven-webapp-project</artifactId>
+  <artifactId>maven-2-webapp-project</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>war</packaging>
-  <name>maven-webapp-project Maven Webapp</name>
+  <name>maven-2-webapp-project Maven Webapp</name>
   <url>http://maven.apache.org</url>
 
   <properties>
@@ -75,7 +75,7 @@
   </dependencies>
 
   <build>
-    <finalName>maven-webapp-project</finalName>
+    <finalName>maven-2-webapp-project</finalName>
     <plugins>
       <!-- http://www.eclipse.org/jetty/documentation/current/jetty-maven-plugin.html -->
       <plugin>

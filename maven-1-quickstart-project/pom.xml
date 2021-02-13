@@ -11,10 +11,10 @@
 
 
   <groupId>com.anurag</groupId>
-  <artifactId>maven-quickstart-project</artifactId>
+  <artifactId>maven-1-quickstart-project</artifactId>
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>maven-quickstart-project</name>
+  <name>maven-1-quickstart-project</name>
   <url>http://maven.apache.org</url>
   <properties>
     <maven.compiler.source>1.8</maven.compiler.source>
