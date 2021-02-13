@@ -32,11 +32,7 @@
                 
     
     <module>maven-quickstart-project</module>
-                
-    
-    <module>parent-project</module>
-          
-    
+    <module>maven-multi-module-project</module>
     <module>maven-webapp-project</module>
       
   </modules>
