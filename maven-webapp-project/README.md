@@ -1,4 +1,4 @@
-1. create webapp project by maven
+1. create webapp project by maven:
  *  mvn archetype:generate -DgroupId=com.anurag -DartifactId=maven-webapp-project -DarchetypeArtifactId=maven-archetype-webapp -DinteractiveMode=false
 2. directory structure:
     * src/main/java/
