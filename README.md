@@ -5,3 +5,7 @@
 5. maven installed location
 - ls -lsa /usr/share/maven
 - ls -lsa /etc/maven
+
+6. maven commands:
+  * Display the project dependencies:
+   * mvn dependency:tree
