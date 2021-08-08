@@ -54,6 +54,6 @@
     *  </profile>
     * </profiles>
     
-    * now run below command woith profile:
+    * now run below command with profile:
     *  mvn package -Pxtest
  
