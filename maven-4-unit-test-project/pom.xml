@@ -8,9 +8,9 @@
     <version>1.0-SNAPSHOT</version>
   </parent>
   <groupId>com.anurag</groupId>
-  <artifactId>maven-unit-test-project</artifactId>
+  <artifactId>maven-4-unit-test-project</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <name>maven-unit-test-project</name>
+  <name>maven-4-unit-test-project</name>
   <url>http://maven.apache.org</url>
   <properties>
     <maven.compiler.source>1.8</maven.compiler.source>
